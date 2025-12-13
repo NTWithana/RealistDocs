@@ -1,0 +1,12 @@
+Date: 13 Dec 2025
+Time: 1:00 PM – 10:30 PM
+Tasks Completed:
+- Installed and verified all required tools (Visual Studio, MongoDB Atlas, Blazor, etc.).
+- Debugged API startup and clarified difference between console vs minimal hosting.
+- Bound MongoDB cluster to ASP.NET Core API using dependency injection.
+- Verified successful connection between API and MongoDB.
+- Added controller scaffolding (AddControllers, MapControllers, Run) to enable endpoints.
+- Created a test controller (/api/ping) and confirmed "API is alive!" message in browser.
+- Committed changes with message: setup connection to mongodb cluster and bind api.
+Reflection:
+Pushed through nervousness and uncertainty, avoided copy‑paste shortcuts, and built the first foundational piece of Realist. Seeing the API alive message confirmed the backend is breathing. This is the true start of the project.
