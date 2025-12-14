@@ -1,0 +1,10 @@
+Tasks Completed
+- Finalized MongoDB binding and DI setup in Program.cs.
+- Defined all core models (MainProblem, Solutions, Optimalsolution, QueryLog) with PKs, FKs, and timestamps.
+- Built repository interfaces and implementations for problems and solutions.
+- Registered repositories with correct interface → implementation mapping.
+- Created ProblemsControl and SolutionsController with full CRUD endpoints.
+- Verified controller logic: each endpoint maps cleanly to its repository method.
+- Prepared Postman testing plan to validate API behavior.
+- Committed final changes with message:
+“Finished the base Api for realist (problems and solutions repos and controllers)”
