@@ -1,0 +1,15 @@
+• 	Defined all core models:
+• 	Included PKs, FKs, and  timestamps for future traceability
+• 	Left room for future user integration (, )
+• 	Built clean repository interfaces and implementations.
+• 	All methods are async and MongoDB-native (, , , )
+• 	Configured MongoDB binding:
+• 	Created  settings class with  and	Bound settings using .
+• 	Registered  and repositories in	Fixed naming conventions and DI registration:
+• 	Renamed interfaces with  prefix.
+• 	Registered interface → implementation correctly in DI
+• 	Ensured consistency across both repositories.
+• 	Committed cleanly:
+• 	Commit message: “Initiate DB Fields and Initiate Repositories for CRUD operations”.
+• 	Modified files: , 
+• 	Peacefully pushed with no lingering bugs or mismatches.
